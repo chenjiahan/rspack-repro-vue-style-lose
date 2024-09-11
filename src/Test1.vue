@@ -1,7 +1,7 @@
 <template>
   <div class="red">red</div>
 </template>
-<style lang="less">
+<style>
 .red {
   color: red;
 }
